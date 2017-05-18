@@ -1,1 +1,1 @@
-http://fajarhide.github.io
+http://fajar.me
