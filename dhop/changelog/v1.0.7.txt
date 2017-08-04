@@ -1,0 +1,34 @@
+BEFORE UPDATE ALWAYS MAKE BACKUPS!
+
+09.12 - v.1.0.7
+
+FIXED:
+- fixed Shop & Product Pages settings
+- fixed style product type 3 at added to cart
+- fixed a problem in the products shortcode when sorting
+
+ADDED:
+- added option truncate product title
+- added option enable label new
+
+UPDATED:
+- Visual Composer to v. 4.9
+- Revolution Slider to v. 5.1.4
+
+
+
+
+
+
+
+
+
+
+
+How to update
+
+go Appearance-->themes, activate any theme, remove ShopMe theme. If you need to update all our plugins. Go to Plugins, deactivate them, and Uninstall. Install new shopme.zip, activate. After go to ShopMe settings and click Save settings. After go to Appearance-->Install Plugins and install new plugin's versions
+
+We advice to embed your API to get updates automatically
+
+http://www.wpexplorer.com/envato-wordpress-toolkit-guide/

@@ -1,0 +1,17 @@
+BEFORE UPDATE ALWAYS MAKE BACKUPS!
+
+11.02 - v.1.1.3
+Updated: Woocommerce to v. 2.5.3
+Fixed: Megamenu on mobile devices
+
+
+
+
+
+How to update
+
+go Appearance-->themes, activate any theme, remove ShopMe theme. If you need to update all our plugins. Go to Plugins and click update required
+
+We advice to embed your API to get updates automatically
+
+http://www.wpexplorer.com/envato-wordpress-toolkit-guide/

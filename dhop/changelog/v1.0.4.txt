@@ -1,0 +1,24 @@
+BEFORE UPDATE ALWAYS MAKE BACKUPS!
+
+23.10 - v 1.04
+
+FIXED:
+- fixed dynamic styles in child theme
+- small issues
+
+UPDATED:
+- Visual Composer  to Version 4.8
+
+
+
+
+
+
+
+How to update
+
+go Appearance-->themes, activate any theme, remove ShopMe theme. If you need to update all our plugins. Go to Plugins, deactivate them, and Uninstall. Install new shopme.zip, activate. After go to ShopMe settings and click Save settings. After go to Appearance-->Install Plugins and install new plugin's versions
+
+We advice to embed your API to get updates automatically
+
+http://www.wpexplorer.com/envato-wordpress-toolkit-guide/

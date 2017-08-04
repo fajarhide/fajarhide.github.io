@@ -1,0 +1,26 @@
+BEFORE UPDATE ALWAYS MAKE BACKUPS!
+
+12.03 - v 1.1.4
+FIXED:
+- a bug in the products filter - ajax pagination
+- in menu navigation not choose menu location
+- a bug in widget popular posts
+
+ADDED:
+- the ability to edit config-woocommerce in a child theme
+
+UPDATED:
+- Woocommerce to v. 2.5.5
+
+
+
+
+
+
+How to update
+
+go Appearance-->themes, activate any theme, remove ShopMe theme. If you need to update all our plugins. Go to Plugins and click update required
+
+We advice to embed your API to get updates automatically
+
+http://www.wpexplorer.com/envato-wordpress-toolkit-guide/

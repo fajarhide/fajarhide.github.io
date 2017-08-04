@@ -1,0 +1,21 @@
+WARNING! BEFORE UPDATE MAKE THE BACKUP!
+
+WARNING! WE REBUILT MEGAMENU. YOU HAVE TO RE-ADJUST IT AFTER UPDATE!!!!
+
+28.04 - v. 1.3.5
+
+
+How to make update? https://velikorodnov.ticksy.com/article/4335/
+
+
+
+FIXED:
+- Check-boxes
+- featured products
+
+
+
+
+
+
+
