@@ -1,0 +1,26 @@
+BEFORE UPDATE ALWAYS MAKE BACKUPS!
+
+18.06 - v. 1.2.3
+
+ADDED: 
+- New color scheme
+- New demo content - Electronics
+
+UPDATED:
+- Woocommerce to v. 2.6.1
+- Revolution Slider to v. 5.2.5.4
+
+
+
+
+
+
+
+
+How to update
+
+go Appearance-->themes, activate any theme, remove ShopMe theme. If you need to update all our plugins. Go to Plugins and click update required
+
+We advice to embed your API to get updates automatically
+
+http://www.wpexplorer.com/envato-wordpress-toolkit-guide/

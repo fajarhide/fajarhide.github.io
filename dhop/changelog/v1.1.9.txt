@@ -1,0 +1,19 @@
+BEFORE UPDATE ALWAYS MAKE BACKUPS!
+
+18.05 - v 1.1.9
+
+IMPROVED:
+- compatability with Dokan Plugin
+- Rating in WooCommerce
+- speed with PageSpeed Insights
+
+
+
+
+How to update
+
+go Appearance-->themes, activate any theme, remove ShopMe theme. If you need to update all our plugins. Go to Plugins and click update required
+
+We advice to embed your API to get updates automatically
+
+http://www.wpexplorer.com/envato-wordpress-toolkit-guide/

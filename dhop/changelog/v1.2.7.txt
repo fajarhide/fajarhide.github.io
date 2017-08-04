@@ -1,0 +1,32 @@
+BEFORE UPDATE ALWAYS MAKE BACKUPS!
+
+07.10 - v. 1.2.7
+
+
+UPDATED:
+- Shopme Content Types Plugin to v 1.0.4
+- Visual Composer  to Version 4.12.1
+
+
+IMPROVED:
+- some changes optimization
+
+
+FIXED:
+- some fixes
+
+
+
+
+
+
+
+
+
+How to update
+
+go Appearance-->themes, activate any theme, remove ShopMe theme. If you need to update all our plugins. Go to Plugins and click update required
+
+We advice to embed your API to get updates automatically
+
+http://www.wpexplorer.com/envato-wordpress-toolkit-guide/
