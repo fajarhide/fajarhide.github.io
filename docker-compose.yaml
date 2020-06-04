@@ -6,4 +6,4 @@ services:
     ports:
       - 8020:80
     volumes: 
-      - ./static:/static
+      - ./:/static
