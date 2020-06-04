@@ -1,0 +1,9 @@
+version: '3'
+services:
+  fajarhide.github.io:
+    image: fajarhide/nginx-static
+    container_name: fajarhide.github.io
+    ports:
+      - 8020:80
+    volumes: 
+      - ./static:/static
