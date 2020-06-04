@@ -1,5 +1,5 @@
 body { text-align: center; padding: 10%; font: 17px monospace,monospace; color: #333; }
-article { display: block; text-align: center; max-width: 650px; margin: 0 auto; }
+article { display: block; text-align: left; max-width: 650px; margin: 0 auto; }
 a { color: #0072dc; text-decoration: none; }
 a:hover { color: #333; text-decoration: none; }
 @media only screen and (max-width : 580px) {
